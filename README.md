@@ -165,7 +165,6 @@
 
 <p align="center">
 
-### ✨ "Learning today, building tomorrow." ✨
 
 ⭐ **Thanks for visiting my profile!** ⭐
 
