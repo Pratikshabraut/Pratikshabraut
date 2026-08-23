@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=Pratikshabraut&color=blue)
 ## 💻 About Me
 
 🎓 Computer Science Student
