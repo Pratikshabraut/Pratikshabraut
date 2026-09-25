@@ -65,31 +65,39 @@ An AI-powered resume analysis application that compares resumes with job descrip
 - 🗄️ MySQL Database
 - 🔌 REST API
 
-### 📸 Screenshots
 
-### 🏠 Resume Analyzer
+# 📸 Application Screenshots
 
-<p align="center">
-<img src="screenshots/home.png" width="85%">
-</p>
-
-### 📚 Analysis History
+## 🏠 Resume Analyzer
 
 <p align="center">
-<img src="screenshots/history.png" width="85%">
+  <img src="./home.png" width="85%" alt="AI Resume Analyzer Home">
 </p>
 
-### 📊 Analysis Result
+---
+
+## 📚 Resume Analysis History
 
 <p align="center">
-<img src="screenshots/analysis-result.png" width="85%">
+  <img src="./history.png" width="85%" alt="Resume Analysis History">
 </p>
 
-### 🤖 AI Interview
+---
+
+## 📊 Resume Analysis Result
 
 <p align="center">
-<img src="screenshots/ai-interview.png" width="85%">
+  <img src="./analysis-result.png" width="85%" alt="Resume Analysis Result">
 </p>
+
+---
+
+## 🤖 AI Interview
+
+<p align="center">
+  <img src="./ai-interview.png" width="85%" alt="AI Interview">
+</p>
+
 
 ---
 
