@@ -45,35 +45,36 @@
 
 AI-powered resume analyzer that compares a resume with a job description and provides useful career insights.
 
-**Features:**
-
+**Features:**  
 📄 Resume Upload • 📊 Resume Score • 🎯 ATS Analysis • ✅ Matched Skills • ❌ Missing Skills • 💡 AI Suggestions • 📚 History • 🤖 AI Interview
 
 ### 📸 Project Preview
 
-<p align="center">
-  <img src="./home.png" width="48%">
-  <img src="./analysis-result.png" width="48%">
-</p>
+<table>
+<tr>
+<td width="50%">
+<img src="./home.png" width="100%" height="300">
+</td>
+<td width="50%">
+<img src="./analysis-result.png" width="100%" height="300">
+</td>
+</tr>
 
-<p align="center">
-  <img src="./history.png" width="48%">
-  <img src="./ai-interview.png" width="48%">
-</p>
-
----
-
-## 🌱 Crop Maturity Detection
-
-Deep learning project for detecting maturity stages of **tomatoes and dragon fruits**.
-
-**Tech:** `Python` `TensorFlow` `Deep Learning` `Computer Vision`
+<tr>
+<td width="50%">
+<img src="./history.png" width="100%" height="300">
+</td>
+<td width="50%">
+<img src="./ai-interview.png" width="100%" height="300">
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Deepfake Detection
 
-Machine learning project for detecting **machine-generated social media content**.
+Machine learning project for detecting **machine-generated social media content** using FastText and deep learning.
 
 **Tech:** `Python` `FastText` `CNN` `LSTM` `TensorFlow`
 
@@ -112,9 +113,7 @@ Clothing reselling platform where users can list, search, purchase and review pr
 ## 🎯 My Goal
 
 <p align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Become+a+Skilled+Software+Developer+%F0%9F%92%BB;Build+Useful+Real-World+Applications+%F0%9F%9A%80;Keep+Learning+%26+Keep+Growing+%F0%9F%8C%B1"/>
-
 </p>
 
 ---
