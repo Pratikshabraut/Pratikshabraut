@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pratiksha Raut
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Java+Developer+%E2%98%95;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+%26+Learning+Every+Day+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%8E%93;Java+Developer+%E2%98%95;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+%26+Learning+Every+Day+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -16,110 +16,130 @@
 
 ## 🌸 About Me
 
-🎓 I'm a **Computer Science Student** passionate about technology and software development.
+🎓 Computer Science Student passionate about software development.
 
-☕ Currently learning **Java and Data Structures & Algorithms**
+☕ Learning **Java, Spring Boot & Data Structures**.
 
-🤖 Exploring **Machine Learning and Artificial Intelligence**
+🤖 Exploring **Machine Learning & Artificial Intelligence**.
 
-🗄️ Learning **MySQL and Database Management**
+🗄️ Working with **MySQL & SQL**.
 
-🚀 Building projects to improve my **programming and problem-solving skills**
-
-✨ Always curious, always learning, always building.
+🚀 Building real-world projects and improving every day.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,tensorflow" />
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-☕-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-🐍-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/MySQL-🗄️-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-🤖-purple?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,git,github,tensorflow,maven" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🤖 AI Resume Analyzer
 
-### 🌱 Crop Maturity Detection
+<p align="center">
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge"/>
+</p>
 
-🤖 Deep learning project for detecting the maturity of **tomatoes and dragon fruits**.
+An AI-powered resume analysis application that compares resumes with job descriptions and provides useful career insights.
 
-**Tech:**
-`Python` `TensorFlow` `Deep Learning` `Computer Vision`
+### ✨ Features
 
-</td>
+- 📄 Resume PDF Upload
+- 📊 Resume Score
+- 🎯 ATS Analysis
+- ✅ Matched Skills
+- ❌ Missing Skills
+- 💡 AI Suggestions
+- 📚 Resume Analysis History
+- 🔎 Search & Filter
+- 🤖 AI Interview Questions
+- 🎤 Voice Answer
+- 🔊 Listen to Questions
+- 🗄️ MySQL Database
+- 🔌 REST API
 
-<td width="50%">
+### 📸 Screenshots
 
-### 🤖 Deepfake Detection
+### 🏠 Resume Analyzer
 
-🧠 Machine learning project for detecting **machine-generated content** using FastText and deep learning.
+<p align="center">
+<img src="screenshots/home.png" width="85%">
+</p>
 
-**Tech:**
-`Python` `FastText` `CNN` `LSTM`
+### 📚 Analysis History
 
-</td>
-</tr>
+<p align="center">
+<img src="screenshots/history.png" width="85%">
+</p>
 
-<tr>
-<td width="50%">
+### 📊 Analysis Result
 
-### 🌾 Farm Management System
+<p align="center">
+<img src="screenshots/analysis-result.png" width="85%">
+</p>
 
-💻 Java + MySQL application for managing **farmers, products, and customers**.
+### 🤖 AI Interview
 
-**Tech:**
-`Java` `MySQL` `NetBeans`
-
-</td>
-
-<td width="50%">
-
-### 👕 SwapNStyle
-
-🛍️ Clothing reselling application where users can **list, search, buy and review products**.
-
-**Tech:**
-`PHP` `MySQL` `XAMPP`
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="screenshots/ai-interview.png" width="85%">
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Crop Maturity Detection
+
+Deep learning project for detecting maturity stages of tomatoes and dragon fruits.
+
+**Tech:** `Python` `TensorFlow` `Deep Learning` `Computer Vision`
+
+---
+
+## 🧠 Deepfake Detection
+
+Machine learning project for detecting machine-generated social media content using FastText and deep learning.
+
+**Tech:** `Python` `FastText` `CNN` `LSTM` `TensorFlow`
+
+---
+
+## 🌾 Farm Management System
+
+Java + MySQL application for managing farmers, products and farm information.
+
+**Tech:** `Java` `MySQL` `NetBeans`
+
+---
+
+## 👕 SwapNStyle
+
+Clothing reselling platform where users can list, search, purchase and review products.
+
+**Tech:** `PHP` `MySQL` `HTML` `CSS` `XAMPP`
+
+---
+
+# 📚 Currently Learning
 
 <p align="center">
 
-☕ **Advanced Java**
-  •  
-🧩 **Data Structures & Algorithms**
-  •  
-🗄️ **SQL**
-  •  
-🤖 **Machine Learning**
-  •  
-🌐 **Web Development**
+☕ <b>Java</b> •
+🌱 <b>Spring Boot</b> •
+🧩 <b>DSA</b> •
+🗄️ <b>SQL</b> •
+🤖 <b>Machine Learning</b>
 
 </p>
 
 ---
 
-## 🎯 My Goal
+# 🎯 My Goal
 
 <p align="center">
 
@@ -129,7 +149,7 @@
 
 ---
 
-## 📊 GitHub Journey
+# 📊 GitHub Journey
 
 <p align="center">
 
@@ -140,14 +160,12 @@
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Pratikshabraut&theme=tokyonight&hide_border=true&border_radius=15"/>
-
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -164,12 +182,9 @@
 ---
 
 <p align="center">
-
-
-⭐ **Thanks for visiting my profile!** ⭐
-
+⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 </p>
