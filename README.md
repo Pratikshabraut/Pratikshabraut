@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Pratiksha Raut
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%8E%93;Java+Developer+%E2%98%95;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+%26+Learning+Every+Day+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratikshabraut&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%8E%93;Java+Developer+%E2%98%95;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+%26+Learning+Every+Day+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
@@ -24,14 +20,14 @@
 
 🗄️ Working with **MySQL & SQL**.
 
-🚀 Building real-world projects and improving every day.
+🚀 Building real-world projects and learning every day.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,git,github,tensorflow,maven" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,git,github,tensorflow,maven"/>
 </p>
 
 ---
@@ -47,63 +43,29 @@
 <img src="https://img.shields.io/badge/AI-purple?style=for-the-badge"/>
 </p>
 
-An AI-powered resume analysis application that compares resumes with job descriptions and provides useful career insights.
+AI-powered resume analyzer that compares a resume with a job description and provides useful career insights.
 
-### ✨ Features
+**Features:**
 
-- 📄 Resume PDF Upload
-- 📊 Resume Score
-- 🎯 ATS Analysis
-- ✅ Matched Skills
-- ❌ Missing Skills
-- 💡 AI Suggestions
-- 📚 Resume Analysis History
-- 🔎 Search & Filter
-- 🤖 AI Interview Questions
-- 🎤 Voice Answer
-- 🔊 Listen to Questions
-- 🗄️ MySQL Database
-- 🔌 REST API
+📄 Resume Upload • 📊 Resume Score • 🎯 ATS Analysis • ✅ Matched Skills • ❌ Missing Skills • 💡 AI Suggestions • 📚 History • 🤖 AI Interview
 
-
-# 📸 Application Screenshots
-
-## 🏠 Resume Analyzer
+### 📸 Project Preview
 
 <p align="center">
-  <img src="./home.png" width="85%" alt="AI Resume Analyzer Home">
+  <img src="./home.png" width="48%">
+  <img src="./analysis-result.png" width="48%">
 </p>
-
----
-
-## 📚 Resume Analysis History
 
 <p align="center">
-  <img src="./history.png" width="85%" alt="Resume Analysis History">
+  <img src="./history.png" width="48%">
+  <img src="./ai-interview.png" width="48%">
 </p>
-
----
-
-## 📊 Resume Analysis Result
-
-<p align="center">
-  <img src="./analysis-result.png" width="85%" alt="Resume Analysis Result">
-</p>
-
----
-
-## 🤖 AI Interview
-
-<p align="center">
-  <img src="./ai-interview.png" width="85%" alt="AI Interview">
-</p>
-
 
 ---
 
 ## 🌱 Crop Maturity Detection
 
-Deep learning project for detecting maturity stages of tomatoes and dragon fruits.
+Deep learning project for detecting maturity stages of **tomatoes and dragon fruits**.
 
 **Tech:** `Python` `TensorFlow` `Deep Learning` `Computer Vision`
 
@@ -111,7 +73,7 @@ Deep learning project for detecting maturity stages of tomatoes and dragon fruit
 
 ## 🧠 Deepfake Detection
 
-Machine learning project for detecting machine-generated social media content using FastText and deep learning.
+Machine learning project for detecting **machine-generated social media content**.
 
 **Tech:** `Python` `FastText` `CNN` `LSTM` `TensorFlow`
 
@@ -133,31 +95,31 @@ Clothing reselling platform where users can list, search, purchase and review pr
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <p align="center">
 
-☕ <b>Java</b> •
-🌱 <b>Spring Boot</b> •
-🧩 <b>DSA</b> •
-🗄️ <b>SQL</b> •
-🤖 <b>Machine Learning</b>
+☕ Java &nbsp; • &nbsp;
+🌱 Spring Boot &nbsp; • &nbsp;
+🧩 DSA &nbsp; • &nbsp;
+🗄️ SQL &nbsp; • &nbsp;
+🤖 Machine Learning
 
 </p>
 
 ---
 
-# 🎯 My Goal
+## 🎯 My Goal
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Become+a+Skilled+Software+Developer+%F0%9F%92%BB;Build+Useful+Real-World+Applications+%F0%9F%9A%80;Keep+Learning+%26+Keep+Growing+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Become+a+Skilled+Software+Developer+%F0%9F%92%BB;Build+Useful+Real-World+Applications+%F0%9F%9A%80;Keep+Learning+%26+Keep+Growing+%F0%9F%8C%B1"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Journey
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -173,7 +135,7 @@ Clothing reselling platform where users can list, search, purchase and review pr
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
 
